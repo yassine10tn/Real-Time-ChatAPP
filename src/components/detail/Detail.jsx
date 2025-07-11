@@ -1,4 +1,6 @@
 import "./detail.css";
+import React from "react";
+
 const detail = () => {
   return (
     <div className="detail">

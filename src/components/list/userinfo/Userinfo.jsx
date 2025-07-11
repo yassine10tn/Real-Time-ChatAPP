@@ -1,4 +1,5 @@
 import "./userinfo.css";
+import React from "react"; // 👈 ADD THIS LINE
 
 const Userinfo = () => {
   return (
