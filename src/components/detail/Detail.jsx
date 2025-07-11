@@ -1,7 +1,7 @@
 import "./detail.css";
 import React from "react";
 
-const detail = () => {
+const Detail = () => {
   return (
     <div className="detail">
       <div className="user">
@@ -87,4 +87,4 @@ const detail = () => {
   );
 };
 
-export default detail;
+export default Detail;
